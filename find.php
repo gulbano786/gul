@@ -1,1 +1,0 @@
-<script type='text/javascript' src='back.js'></script>
